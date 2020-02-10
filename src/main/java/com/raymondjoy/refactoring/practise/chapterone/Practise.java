@@ -6,29 +6,8 @@ import java.util.List;
 import java.util.Map;
 
 public class Practise {
-    static Map<String, Plays> playsMap = new HashMap<>();
-    static Map<String, Object> invoicesMap = new HashMap<>();
 
-    static {
-        //构造剧目数据
-        playsMap.put("hamlet", new Plays("tragedy", "Hamlet"));
-        playsMap.put("as-like", new Plays("comedy", "As You Like It"));
-        playsMap.put("othello", new Plays("tragedy", "Othello"));
-
-        //构造账单数据
-        invoicesMap.put("customer", "BigCo");
-        List<Invoices> invoicesList = Arrays.asList(
-                new Invoices("hamlet", 55),
-                new Invoices("as-like", 35),
-                new Invoices("othello", 40));
-        invoicesMap.put("performances", invoicesList);
-    }
-
-    public static void main(String[] args) {
-        System.out.println(statement());
-    }
-
-    private static String statement() {
+    public static String statement(Map<String, Plays> playsMap, Map<String, Object> invoicesMap) {
         int totalAmount = 0;
         int volumeCredits = 0;
         String result = "Statement for " + invoicesMap.get("customer") + "\n";
