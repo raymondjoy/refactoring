@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="282c408c-c972-4220-ac15-921e67c262d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/raymondjoy/refactoring/practise/chapterone/Invoices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/raymondjoy/refactoring/practise/chapterone/Practise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/raymondjoy/refactoring/practise/chapterone/Plays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/raymondjoy/refactoring/practise/chapterone/Plays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +41,9 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -87,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581307571214</updated>
-      <workItem from="1581307576040" duration="2221000" />
+      <workItem from="1581307576040" duration="2624000" />
     </task>
     <servers />
   </component>
@@ -99,22 +93,26 @@
       <screen x="48" y="23" width="1632" height="1027" />
     </state>
     <state x="602" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/48.23.1632.1027@48.23.1632.1027" timestamp="1581309308075" />
-    <state width="1590" height="261" key="GridCell.Tab.0.bottom" timestamp="1581309788161">
+    <state width="1590" height="261" key="GridCell.Tab.0.bottom" timestamp="1581309820072">
       <screen x="48" y="23" width="1632" height="1027" />
     </state>
-    <state width="1590" height="261" key="GridCell.Tab.0.bottom/48.23.1632.1027@48.23.1632.1027" timestamp="1581309788161" />
-    <state width="1590" height="261" key="GridCell.Tab.0.center" timestamp="1581309788160">
+    <state width="1590" height="261" key="GridCell.Tab.0.bottom/48.23.1632.1027@48.23.1632.1027" timestamp="1581309820072" />
+    <state width="1590" height="261" key="GridCell.Tab.0.center" timestamp="1581309820071">
       <screen x="48" y="23" width="1632" height="1027" />
     </state>
-    <state width="1590" height="261" key="GridCell.Tab.0.center/48.23.1632.1027@48.23.1632.1027" timestamp="1581309788160" />
-    <state width="1590" height="261" key="GridCell.Tab.0.left" timestamp="1581309788160">
+    <state width="1590" height="261" key="GridCell.Tab.0.center/48.23.1632.1027@48.23.1632.1027" timestamp="1581309820071" />
+    <state width="1590" height="261" key="GridCell.Tab.0.left" timestamp="1581309820071">
       <screen x="48" y="23" width="1632" height="1027" />
     </state>
-    <state width="1590" height="261" key="GridCell.Tab.0.left/48.23.1632.1027@48.23.1632.1027" timestamp="1581309788160" />
-    <state width="1590" height="261" key="GridCell.Tab.0.right" timestamp="1581309788161">
+    <state width="1590" height="261" key="GridCell.Tab.0.left/48.23.1632.1027@48.23.1632.1027" timestamp="1581309820071" />
+    <state width="1590" height="261" key="GridCell.Tab.0.right" timestamp="1581309820071">
       <screen x="48" y="23" width="1632" height="1027" />
     </state>
-    <state width="1590" height="261" key="GridCell.Tab.0.right/48.23.1632.1027@48.23.1632.1027" timestamp="1581309788161" />
+    <state width="1590" height="261" key="GridCell.Tab.0.right/48.23.1632.1027@48.23.1632.1027" timestamp="1581309820071" />
+    <state x="352" y="118" key="SettingsEditor" timestamp="1581310203728">
+      <screen x="48" y="23" width="1632" height="1027" />
+    </state>
+    <state x="352" y="118" key="SettingsEditor/48.23.1632.1027@48.23.1632.1027" timestamp="1581310203728" />
     <state width="500" height="400" key="SwitcherDM" timestamp="1581309779389">
       <screen x="48" y="23" width="1632" height="1027" />
     </state>
@@ -124,5 +122,9 @@
       <screen x="50" y="23" width="1630" height="1027" />
     </state>
     <state x="602" y="286" width="542" height="501" key="extract.method.dialog/50.23.1630.1027@50.23.1630.1027" timestamp="1581308797134" />
+    <state x="529" y="250" key="search.everywhere.popup" timestamp="1581309819190">
+      <screen x="48" y="23" width="1632" height="1027" />
+    </state>
+    <state x="529" y="250" key="search.everywhere.popup/48.23.1632.1027@48.23.1632.1027" timestamp="1581309819190" />
   </component>
 </project>
