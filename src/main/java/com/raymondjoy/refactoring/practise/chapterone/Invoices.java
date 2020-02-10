@@ -5,8 +5,9 @@ import lombok.Data;
 
 @Data
 @AllArgsConstructor
-public class Plays {
-    private final String type;
-    private final String name;
+public class Invoices {
+
+    private final String playID;
+    private final Integer audience;
 
 }

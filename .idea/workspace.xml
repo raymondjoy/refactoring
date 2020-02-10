@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="282c408c-c972-4220-ac15-921e67c262d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/raymondjoy/refactoring/practise/chapterone/Plays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/raymondjoy/refactoring/practise/chapterone/Invoices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/raymondjoy/refactoring/practise/chapterone/Practise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/raymondjoy/refactoring/practise/chapterone/Plays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/raymondjoy/refactoring/practise/chapterone/Plays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +44,38 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.raymondjoy.refactoring.practise.chapterone" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Practise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raymondjoy.refactoring.practise.chapterone.Practise" />
+      <module name="refactoring.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.raymondjoy.refactoring.practise.chapterone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Practise" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -50,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581307571214</updated>
-      <workItem from="1581307576040" duration="545000" />
+      <workItem from="1581307576040" duration="2221000" />
     </task>
     <servers />
   </component>
@@ -58,9 +95,34 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="500" height="400" key="SwitcherDM" timestamp="1581308047999">
+    <state x="602" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581309308075">
       <screen x="48" y="23" width="1632" height="1027" />
     </state>
-    <state width="500" height="400" key="SwitcherDM/48.23.1632.1027@48.23.1632.1027" timestamp="1581308047999" />
+    <state x="602" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/48.23.1632.1027@48.23.1632.1027" timestamp="1581309308075" />
+    <state width="1590" height="261" key="GridCell.Tab.0.bottom" timestamp="1581309788161">
+      <screen x="48" y="23" width="1632" height="1027" />
+    </state>
+    <state width="1590" height="261" key="GridCell.Tab.0.bottom/48.23.1632.1027@48.23.1632.1027" timestamp="1581309788161" />
+    <state width="1590" height="261" key="GridCell.Tab.0.center" timestamp="1581309788160">
+      <screen x="48" y="23" width="1632" height="1027" />
+    </state>
+    <state width="1590" height="261" key="GridCell.Tab.0.center/48.23.1632.1027@48.23.1632.1027" timestamp="1581309788160" />
+    <state width="1590" height="261" key="GridCell.Tab.0.left" timestamp="1581309788160">
+      <screen x="48" y="23" width="1632" height="1027" />
+    </state>
+    <state width="1590" height="261" key="GridCell.Tab.0.left/48.23.1632.1027@48.23.1632.1027" timestamp="1581309788160" />
+    <state width="1590" height="261" key="GridCell.Tab.0.right" timestamp="1581309788161">
+      <screen x="48" y="23" width="1632" height="1027" />
+    </state>
+    <state width="1590" height="261" key="GridCell.Tab.0.right/48.23.1632.1027@48.23.1632.1027" timestamp="1581309788161" />
+    <state width="500" height="400" key="SwitcherDM" timestamp="1581309779389">
+      <screen x="48" y="23" width="1632" height="1027" />
+    </state>
+    <state width="500" height="400" key="SwitcherDM/48.23.1632.1027@48.23.1632.1027" timestamp="1581309779389" />
+    <state width="500" height="400" key="SwitcherDM/50.23.1630.1027@50.23.1630.1027" timestamp="1581308683007" />
+    <state x="602" y="286" width="542" height="501" key="extract.method.dialog" timestamp="1581308797134">
+      <screen x="50" y="23" width="1630" height="1027" />
+    </state>
+    <state x="602" y="286" width="542" height="501" key="extract.method.dialog/50.23.1630.1027@50.23.1630.1027" timestamp="1581308797134" />
   </component>
 </project>
