@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="282c408c-c972-4220-ac15-921e67c262d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.raymondjoy.refactoring.practise.chapterone.PractiseTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.raymondjoy.refactoring.practise.chapterone.PractiseTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.raymondjoy.refactoring.practise.chapterone.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.raymondjoy.refactoring.practise.chapterone.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.raymondjoy.refactoring.practise.chapterone.PractiseTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.raymondjoy.refactoring.practise.chapterone.PractiseTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/raymondjoy/refactoring/practise/chapterone/Practise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/raymondjoy/refactoring/practise/chapterone/Practise.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +124,8 @@
       <updated>1581307571214</updated>
       <workItem from="1581307576040" duration="2624000" />
       <workItem from="1581310229490" duration="11831000" />
-      <workItem from="1581677875728" duration="894000" />
+      <workItem from="1581677875728" duration="4218000" />
+      <workItem from="1582170115056" duration="18000" />
     </task>
     <servers />
   </component>
@@ -162,10 +145,10 @@
       <screen x="48" y="23" width="1632" height="1027" />
     </state>
     <state x="602" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/48.23.1632.1027@48.23.1632.1027" timestamp="1581309308075" />
-    <state x="371" y="54" key="CommitChangelistDialog2" timestamp="1581678787376">
+    <state x="371" y="54" key="CommitChangelistDialog2" timestamp="1581678874805">
       <screen x="39" y="23" width="1641" height="1027" />
     </state>
-    <state x="371" y="54" key="CommitChangelistDialog2/1680.23.1920.1057/39.23.1641.1027@39.23.1641.1027" timestamp="1581678787376" />
+    <state x="371" y="54" key="CommitChangelistDialog2/1680.23.1920.1057/39.23.1641.1027@39.23.1641.1027" timestamp="1581678874805" />
     <state x="203" y="114" key="DiffContextDialog" timestamp="1581677925303">
       <screen x="39" y="23" width="1641" height="1027" />
     </state>
@@ -211,6 +194,10 @@
     <state width="500" height="400" key="SwitcherDM/48.23.1632.1027@48.23.1632.1027" timestamp="1581309779389" />
     <state width="500" height="400" key="SwitcherDM/50.23.1630.1027@50.23.1630.1027" timestamp="1581312588046" />
     <state width="500" height="400" key="SwitcherDM/51.23.1629.1027@51.23.1629.1027" timestamp="1581395688481" />
+    <state x="459" y="272" key="Vcs.Push.Dialog.v2" timestamp="1581678948211">
+      <screen x="39" y="23" width="1641" height="1027" />
+    </state>
+    <state x="459" y="272" key="Vcs.Push.Dialog.v2/1680.23.1920.1057/39.23.1641.1027@39.23.1641.1027" timestamp="1581678948211" />
     <state x="558" y="244" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1581312027523">
       <screen x="50" y="23" width="1630" height="1027" />
     </state>

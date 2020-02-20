@@ -10,4 +10,7 @@ public class Invoices {
     private final String playID;
     private final Integer audience;
 
+    public String getPlayID() {
+        return playID;
+    }
 }
